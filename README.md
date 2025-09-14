@@ -10,3 +10,4 @@ Dự án minh họa sử dụng **Timer2** để tạo ngắt 500ms và điều 
 
 ## Kết quả
 LED trên PC13 nháy chu kỳ **1 giây** (sáng 500ms, tắt 500ms).
+#### Video Demo : https://drive.google.com/file/d/1-1nkht0b0LLgDNvfWgShZ7D-ZAM5zkmc/view?usp=sharing
